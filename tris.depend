@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596553004 source:c:\users\anton\onedrive\documents\codeblockprojects\tris\tris\main.cpp
+	<iostream>
+	<cstring>
+
